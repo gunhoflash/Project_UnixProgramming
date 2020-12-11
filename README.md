@@ -1,5 +1,5 @@
 # Project_UnixProgramming
-2018-2 UOS Unix Programming
+2018학년도 2학기 서울시립대학교 컴퓨터과학부 유닉스프로그래밍및실습 텀프로젝트 수행 내용을 공개합니다. 유닉스 환경에서 간단한 쉘을 제공합니다.
 
 ## Example of Use
 
